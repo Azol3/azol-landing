@@ -15,10 +15,18 @@
     line-height: 105%;
 }
 
+.gradient {
+    background: #4bbfc7;
+    background: linear-gradient(to right, #4bbfc7 0%, #B87DB4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
 .description {
     font-size: 1.5rem;
     color: #D4D4D4;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 /* color: '#D4D4D4',
