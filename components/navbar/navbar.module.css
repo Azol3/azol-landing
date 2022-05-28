@@ -5,11 +5,17 @@
     width: 100vw;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .logo {
     height: 70px;
     width: 70px;
-    margin: 0 0 0 7%;
+    position: absolute;
+    left: 7%;
+}
 
+.nav-link {
+    color: #eee;
+    margin: 1rem;
 }
