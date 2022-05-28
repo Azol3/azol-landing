@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className={styles.root}>
       <ThreeScene />
-      <Navbar />
       <HeroTitle />
+      <Navbar />
     </div>
   )
 }
