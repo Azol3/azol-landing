@@ -49,8 +49,9 @@ class ThreeScene extends Component {
             window.requestAnimationFrame(tick);
             renderer.render(scene, camera);
             if(model) {
-                model.rotation.y += 0.01;
+                model.rotation.y += 0.005;
                 model.rotation.x += 0.001;
+                model.rotation.z += 0.001;
             }
         }
         tick();
