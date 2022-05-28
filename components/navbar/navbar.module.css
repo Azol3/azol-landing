@@ -1,0 +1,15 @@
+.root {
+    height: 78px;
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+    margin: 0 0 0 7%;
+
+}
