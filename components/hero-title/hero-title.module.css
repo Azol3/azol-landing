@@ -1,0 +1,27 @@
+.title-container {
+    max-width: 50%;
+    margin: 0 0 0 7%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    z-index: 1;
+}
+
+.main-title {
+    margin: 0;
+    font-size: 6rem;
+    color: #eee;
+    line-height: 105%;
+}
+
+.description {
+    font-size: 1.5rem;
+    color: #D4D4D4;
+    font-weight: 400;
+}
+
+/* color: '#D4D4D4',
+fontSize: '1.5rem',
+marginTop: '2rem',
+fontFamily: 'Montserrat' */
