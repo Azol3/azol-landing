@@ -99,7 +99,12 @@
     
 }
 
-/* color: '#D4D4D4',
-fontSize: '1.5rem',
-marginTop: '2rem',
-fontFamily: 'Montserrat' */
+
+@media screen and (max-height: 900px) {
+    .main-title {
+        font-size: 4rem;
+    }
+    .description {
+        font-size: 1.1rem;
+    }
+}
