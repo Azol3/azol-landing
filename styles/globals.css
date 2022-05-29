@@ -18,3 +18,14 @@ a {
 canvas {
   position: absolute;
 }
+
+img {
+  max-height: 70%;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 643px;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
