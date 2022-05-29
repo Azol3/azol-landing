@@ -6,7 +6,6 @@ import ThreeScene from '../threejs/three.scene';
 export default function Home() {
   return (
     <div className={styles.root}>
-      <ThreeScene />
       <HeroTitle />
       <Navbar />
     </div>
