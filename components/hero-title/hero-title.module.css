@@ -16,8 +16,8 @@
 }
 
 .gradient {
-    background: #4bbfc7;
-    background: linear-gradient(to right, #4bbfc7 0%, #B87DB4 100%);
+    background: rgb(66,197,242);
+    background: linear-gradient(to right, #42c5f2 0%, #823f98 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
@@ -93,7 +93,8 @@
     --r:50px; /* radius */
     --b:2px; /* border width */
     
-    background: linear-gradient(to right, #4bbfc7 0%, #B87DB4 100%);
+    background: rgb(66,197,242);
+    background: linear-gradient(to right, #42c5f2 0%, #823f98 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
