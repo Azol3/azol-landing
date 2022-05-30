@@ -19,6 +19,6 @@
 
 @media screen and (max-height: 900px) {
   .landing-image {
-    right: 5%;
+    right: 0;
   }
 }
