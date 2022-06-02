@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.root}>
       <img className={styles["landing-image"]} src="/cards.svg"></img>
       <HeroTitle />
-      <Navbar />
+      {/* <Navbar /> */}
     </div>
   )
 }

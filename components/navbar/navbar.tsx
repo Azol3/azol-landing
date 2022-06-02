@@ -5,8 +5,8 @@ const Navbar = () => {
     return (
         <div className={styles.root}>
             <img className={styles.logo} src="/logo.png"></img> 
-            <a href="" className={styles["nav-link"]}>Docs</a>
-            <a href="" className={styles["nav-link"]}>Team</a>
+            {/* <a href="" className={styles["nav-link"]}>Docs</a>
+            <a href="" className={styles["nav-link"]}>Team</a> */}
             {/* <button className={styles["connect-wallet"]}>Connect Wallet</button> */}
         </div>
     )
