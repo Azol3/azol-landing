@@ -22,3 +22,15 @@
     right: 0;
   }
 }
+
+@media screen and (max-width: 800px) {
+  .landing-image {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .root {
+    background: rgb(18,19,30);
+  }
+}
