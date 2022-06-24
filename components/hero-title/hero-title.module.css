@@ -108,6 +108,15 @@
     }
 }
 
+@media screen and (max-width: 500px) {
+    .main-title {
+        font-size: 3.4rem;
+    }
+    .description {
+        font-size: 1rem;
+    }
+}
+
 
 .btn {
     --r:50px; /* radius */
